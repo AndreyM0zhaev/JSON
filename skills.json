@@ -1,0 +1,33 @@
+{	"Skills": {
+	"Terminal": {
+	"GitBush",
+	"Commands": [
+	"pwd",
+	"ls -la",
+	"touch",
+	"cat",
+	"mkdir",
+	"cd",
+	"cp",
+	"mv",
+	"rm",
+	"find",
+	"grep"
+	],
+	"GitHub": [
+	"git config",
+        "git add",
+        "git commit -m",
+        "git push"
+	]
+	}, 
+	"Postman",
+	"Charles",
+	"JSON",
+	"XML",
+	"DevTools",
+	"SQL",
+	"Scrum"
+
+	}
+

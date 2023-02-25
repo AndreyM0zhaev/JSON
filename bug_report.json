@@ -1,0 +1,20 @@
+{ "ID": "GH-0001",
+  "Summary": "При нажатии на кнопку "Зарегистрироваться" на главной странице не открывается форма регистрации",
+  "Project": "",
+  "Component": "",
+  "Version": "",
+  "Severity": "",
+  "Priority": "",
+  "Status": "",
+  "Author": "",
+  "Assigned to": "",
+  "Environment": "",
+  "Steps to Reproduce": {
+                          [ "Step 1": "",
+                            "Step 2": "",
+ ]
+}
+  "Actual result": "",
+  "Expected Result": "",
+  "Attachment": ""
+}
